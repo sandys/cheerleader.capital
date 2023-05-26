@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-[Cheerleader.Capita;](/){:target="_blank"} gives you `cheers`, `gyaan` and a `little` bit of funds. 
+[Cheerleader.Capital](/){:target="_blank"} gives you `cheers`, `gyaan` and a `little` bit of funds. 
 
 
 
