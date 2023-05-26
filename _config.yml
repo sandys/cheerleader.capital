@@ -13,9 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/sandeepssrin"
-linkedin: "https://www.linkedin.com/in/sandeepss"
-github: "https://github.com/sandys"
+twitter: "sandeepssrin"
+linkedin: "sandeepss"
+github: "sandys"
 
 
 # Markdown
