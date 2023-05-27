@@ -12,6 +12,6 @@ published: true
 
 
 
-### Also, :
+### Best way to reach me :
+Is to tweet to me on - [Twitter](https://twitter.com/sandeepssrin){:target="_blank"} or a pull request on  [Github](https://github.com/sandys){:target="_blank"}
 
-PS: If you liked this website, do star it on GitHub!
